@@ -3,12 +3,6 @@
   <p>
     <em>"Prioritizing security best practices, defensive hardening, and performance optimization."</em>
   </p>
-  
-  <p>
-    <a href="https://github.com/mohan1817243">
-      <img src="https://komarev.com/ghpvc/?username=mohan1817243&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -30,8 +24,22 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 | **Languages** | **Offensive Security** | **Defensive & Infra** |
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-CCCC66?style=flat&logo=nmap&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![Python](https://img.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36C00?style=flat&logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36C00?style=flat&logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohan's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan1817243&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect! Always open to discussing <strong>Network Defense</strong> and <strong>Web3 Security</strong>.</sub>
+</div>
