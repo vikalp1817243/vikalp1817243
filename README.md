@@ -33,7 +33,7 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true" alt="Mohan's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan1817243&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
