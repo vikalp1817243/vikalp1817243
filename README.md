@@ -29,6 +29,16 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
+
+### 🏆 Competitive Programming
+
+| **Platform** | **Profile** |
+| :--- | :--- |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06) | [**Vikalp Pratap Yadav**](https://leetcode.com/9U7unVDgjh/) |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) | [**Vikalp Pratap Yadav**](https://codeforces.com/profile/Heavenly_flames) |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
