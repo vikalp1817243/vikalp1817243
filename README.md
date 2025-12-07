@@ -42,9 +42,9 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-lake-two-66.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true&count_private=true&v=3" alt="Mohan's GitHub Stats" />
+  <img src="https://github-readme-stats-lake-two-66.vercel.app/api?username=vikalp1817243&show_icons=true&theme=dark&hide_border=true&count_private=true&v=3" alt="Vikalp's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-lake-two-66.vercel.app/api/top-langs/?username=mohan1817243&layout=compact&theme=dark&hide_border=true&v=3" alt="Top Languages" />
+  <img src="https://github-readme-stats-lake-two-66.vercel.app/api/top-langs/?username=vikalp1817243&layout=compact&theme=dark&hide_border=true&v=3" alt="Top Languages" />
 </div>
 <div align="center">
   <sub>Let's connect! Always open to discussing <strong>Network Defense</strong> and <strong>Web3 Security</strong>.</sub>
