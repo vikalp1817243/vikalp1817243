@@ -30,7 +30,7 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming and Labs
 
 | **Platform** | **Profile** |
 | :--- | :--- |
