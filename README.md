@@ -36,6 +36,7 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 | :--- | :--- |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06) | [**Vikalp Pratap Yadav**](https://leetcode.com/9U7unVDgjh/) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) | [**Vikalp Pratap Yadav**](https://codeforces.com/profile/Heavenly_flames) |
+| ![TryHackMe](https://img.shields.io/badge/TryHackMe-C02026?style=flat&logo=tryhackme&logoColor=white) | [**Vikalp Pratap Yadav**](https://tryhackme.com/p/heavenlyflames12) |
 
 ---
 
