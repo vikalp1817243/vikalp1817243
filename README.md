@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🔒 Security & Efficiency First | Cybersecurity Researcher</h2>
+  <h2>Security & Efficiency First | Cybersecurity Researcher</h2>
   <p>
     <em>"Prioritizing security best practices, defensive hardening, and performance optimization."</em>
   </p>
@@ -7,19 +7,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a Developer and Security Enthusiast focused on the convergence of **Offensive & Defensive Cybersecurity**. I am currently transitioning from foundational mastery to intermediate specialization ("Peak Beginner" phase), with a strong drive to understand systems "under the hood."
 
-* 🔭 **I’m currently working on:** Enhancing my [InternshipProjects](https://github.com/mohan1817243/InternshipProjects) portfolio (Offensive Tooling).
-* 🌱 **I’m currently learning:** Blockchain Architecture, Smart Contract Security, and Advanced Java.
-* 🛡️ **My Domain:** Offensive Security (Red Teaming), Defensive Hardening (Blue Teaming), and Network Traffic Analysis.
-* 🎨 **Frontend Basics:** Fundamental understanding of HTML for web structure analysis and simple interfaces.
-* 🤝 **Collaboration:** Open to projects involving secure scripting and blockchain basics.
+* **I’m currently working on:** Enhancing my [InternshipProjects](https://github.com/mohan1817243/InternshipProjects) portfolio (Offensive Tooling).
+* **I’m currently learning:** Blockchain Architecture, Smart Contract Security, and Advanced Java.
+* **My Domain:** Offensive Security (Red Teaming), Defensive Hardening (Blue Teaming), and Network Traffic Analysis.
+* **Frontend Basics:** Fundamental understanding of HTML for web structure analysis and simple interfaces.
+* **Collaboration:** Open to projects involving secure scripting and blockchain basics.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | **Languages** | **Offensive Security** | **Defensive & Infra** |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 
 ---
 
-### 🏆 Competitive Programming and Labs
+### Competitive Programming and Labs
 
 | **Platform** | **Profile** |
 | :--- | :--- |
@@ -40,7 +40,7 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-lake-two-66.vercel.app/api?username=vikalp1817243&show_icons=true&theme=dark&hide_border=true&count_private=true&v=3" alt="Vikalp's GitHub Stats" />
