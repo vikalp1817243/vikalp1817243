@@ -25,7 +25,7 @@ Motivated Cyber Security Enthusiast focused on the convergence of **Offensive & 
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-CCCC66?style=flat&logo=nmap&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36C00?style=flat&logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | ![CyberChef](https://img.shields.io/badge/CyberChef-1a1a1a?style=flat&logo=cyberchef&logoColor=white) |
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
