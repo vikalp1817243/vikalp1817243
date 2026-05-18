@@ -11,10 +11,10 @@
 
 Motivated Cyber Security Enthusiast focused on the convergence of **Offensive & Defensive Cybersecurity**. I am currently transitioning from foundational mastery to intermediate specialization ("Peak Beginner" phase), with a strong drive to understand systems "under the hood."
 
-* **I’m currently working on:** Learning Metasploit from HTB platform. (Offensive Tooling).
-* **I’m currently learning:** Cryptography from Dan Boneh, and slow pace learning Blockchain, Smart Contract Security, and Advanced Java.
+* **I’m currently working on:** Learning Metasploit from HTB and THM platform. (Offensive Tooling).
+* **My current slow-pace learning:** Advanced Java adn Bash scripting.
 * **My Domain:** Offensive Security (Red Teaming), Defensive Hardening (Blue Teaming), and Network Traffic Analysis.
-* **Frontend Basics:** Fundamental understanding of HTML for web structure analysis.
+* **Web Development:** Fundamental understanding of HTML, CSS and JS for web structure analysis.
 * **Collaboration:** Open to projects involving secure scripting and blockchain basics.
 
 ---
