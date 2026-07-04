@@ -18,16 +18,16 @@ I'm a Computer Science student passionate about **Cybersecurity**, **Backend Dev
 
 I enjoy understanding systems from the inside out—from networking and operating systems to web applications and offensive security.
 
-Currently expanding my knowledge in backend development while strengthening my cybersecurity foundations through practical labs and CTFs.
+I regularly document my learning, lab walkthroughs, and technical notes on my GitBook to reinforce concepts and share practical knowledge with the community.
 
 ---
 
 ## 🚀 Current Focus
 
-<table>
+<table align="center">
 <tr>
 
-<td width="65%">
+<td width="70%">
 
 - 🔐 Offensive Security Fundamentals
 - 🛡️ Defensive Security & Network Analysis
@@ -128,6 +128,20 @@ A responsive web application for managing and visualizing academic marks.
 
 ---
 
+## 📖 Technical Writeups
+
+I document my learning journey, CTF writeups, cybersecurity notes, backend concepts, and practical experiments on GitBook.
+
+<div align="center">
+
+### 📚 Read my documentation
+
+### 👉 [https://0xv1k4l9.gitbook.io/0xv1k4l9](https://0xv1k4l9.gitbook.io/0xv1k4l9)
+
+</div>
+
+---
+
 ## 📜 Certifications
 
 - Google Cybersecurity Professional Certificate
@@ -170,6 +184,10 @@ A responsive web application for managing and visualizing academic marks.
 
 <a href="https://github.com/vikalp1817243">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://0xv1k4lp9.gitbook.io/0xv1k4l9">
+<img src="https://img.shields.io/badge/GitBook-000000?style=for-the-badge&logo=gitbook&logoColor=white">
 </a>
 
 </p>
