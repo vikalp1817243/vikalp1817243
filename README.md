@@ -22,20 +22,37 @@ Currently expanding my knowledge in backend development while strengthening my c
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
+
+<table>
+<tr>
+
+<td width="65%">
 
 - 🔐 Offensive Security Fundamentals
 - 🛡️ Defensive Security & Network Analysis
 - 🌐 Backend Development using Node.js & Express
+- 🔑 Authentication (JWT & Google OAuth)
+- 🐳 Docker & Wazuh Homelab
 - ☁ Linux & Bash Automation
 - 📚 Data Structures & Algorithms (Java)
 - ⚡ Building Security Projects
 
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzhyaHg2bnM5aTY3Z3ZiY2wxMGdsNGo4cDVsazcwejRiOThpbGMxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="280">
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +64,7 @@ Currently expanding my knowledge in backend development while strengthening my c
 
 ---
 
-## Backend & Cloud
+### Backend & Cloud
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -58,7 +75,7 @@ Currently expanding my knowledge in backend development while strengthening my c
 
 ---
 
-## Cybersecurity & Infrastructure
+###  Cybersecurity & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,36 +88,18 @@ Currently expanding my knowledge in backend development while strengthening my c
 
 ---
 
-# 📌 Current Status
+## 📌 Current Status
 
-<table>
-<tr>
-
-<td width="60%">
-
-### Working On
-
-- Learning Node.js & Express
-- Practicing TryHackMe & HackTheBox
-- Building Backend Projects
-- Learning Bash Scripting
-- Improving Java DSA
-- Exploring Blockchain Security
-
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzhyaHg2bnM5aTY3Z3ZiY2wxMGdsNGo4cDVsazcwejRiOThpbGMxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="280">
-
-</td>
-
-</tr>
-</table>
+- 🎓 B.Tech Computer Science Student
+- 🔐 Learning Backend Development & Cybersecurity
+- 🧠 Solving CTF Challenges on TryHackMe & Hack The Box
+- 🐳 Building a Docker + Wazuh Security Homelab
+- 💻 Practicing Java DSA
+- 🤝 Open to Open Source & Security Projects
 
 ---
 
-# 🏆 Competitive Programming & Labs
+## 🏆 Competitive Programming & Labs
 
 | Platform | Profile |
 |-----------|---------|
@@ -111,7 +110,7 @@ Currently expanding my knowledge in backend development while strengthening my c
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🐳 Security Homelab
 
@@ -129,7 +128,7 @@ A responsive web application for managing and visualizing academic marks.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Google Cybersecurity Professional Certificate
 - Google — Bits & Bytes of Computer Networking
@@ -137,7 +136,7 @@ A responsive web application for managing and visualizing academic marks.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -157,7 +156,7 @@ A responsive web application for managing and visualizing academic marks.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
