@@ -1,52 +1,186 @@
 <div align="center">
-  <h2>Security & Efficiency First | Cybersecurity Researcher</h2>
-  <p>
-    <em>"Prioritizing security best practices, defensive hardening, and performance optimization."</em>
-  </p>
+
+# Hi 👋 I'm Vikalp Pratap Yadav
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Backend+Developer;Learning+Red+Team+%26+Blue+Team;Java+%7C+Python+%7C+Node.js+%7C+Linux;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnU2cnNhM3cxbnJhaTRsZHFicnd6bTM0azkzMGpiMGFqbG93Z2FhYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hAmKaqr4xMuUE/giphy.gif" width="900">
+
 </div>
 
 ---
 
-### About Me
+# 👨‍💻 About Me
 
-Motivated Cyber Security Enthusiast focused on the convergence of **Offensive & Defensive Cybersecurity**. I am currently transitioning from foundational mastery to intermediate specialization ("Peak Beginner" phase), with a strong drive to understand systems "under the hood."
+I'm a Computer Science student passionate about **Cybersecurity**, **Backend Development**, and **Secure Software Engineering**.
 
-* **I’m currently working on:** Learning Metasploit from HTB and THM platform. (Offensive Tooling).
-* **My current slow-pace learning:** Advanced Java and Bash scripting.
-* **My Domain:** Offensive Security (Red Teaming), Defensive Hardening (Blue Teaming), and Network Traffic Analysis.
-* **Web Development:** Fundamental understanding of HTML, CSS and JS for web structure analysis.
-* **Collaboration:** Open to projects involving secure scripting and blockchain basics.
+I enjoy understanding systems from the inside out—from networking and operating systems to web applications and offensive security.
+
+Currently expanding my knowledge in backend development while strengthening my cybersecurity foundations through practical labs and CTFs.
 
 ---
 
-### Technical Arsenal
+# 🚀 Current Focus
 
-| **Languages** | **Offensive Security** | **Defensive & Infra** |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-CCCC66?style=flat&logo=nmap&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36C00?style=flat&logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | ![CyberChef](https://img.shields.io/badge/CyberChef-1a1a1a?style=flat&logo=github&logoColor=white) |
-| ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-
----
-
-### Competitive Programming and Labs
-
-| **Platform** | **Profile** |
-| :--- | :--- |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=d16c06) | [**Vikalp Pratap Yadav**](https://leetcode.com/u/v1k4l9/) |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) | [**Vikalp Pratap Yadav**](https://codeforces.com/profile/Heavenly_flames) |
-| ![TryHackMe](https://img.shields.io/badge/TryHackMe-C02026?style=flat&logo=tryhackme&logoColor=white) | [**Vikalp Pratap Yadav**](https://tryhackme.com/p/v1k4l9) |
+- 🔐 Offensive Security Fundamentals
+- 🛡️ Defensive Security & Network Analysis
+- 🌐 Backend Development using Node.js & Express
+- ☁ Linux & Bash Automation
+- 📚 Data Structures & Algorithms (Java)
+- ⚡ Building Security Projects
 
 ---
 
-### GitHub Stats
+# 🛠 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Backend & Cloud
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## Cybersecurity & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F36C00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📌 Current Status
+
+<table>
+<tr>
+
+<td width="60%">
+
+### Working On
+
+- Learning Node.js & Express
+- Practicing TryHackMe & HackTheBox
+- Building Backend Projects
+- Learning Bash Scripting
+- Improving Java DSA
+- Exploring Blockchain Security
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzhyaHg2bnM5aTY3Z3ZiY2wxMGdsNGo4cDVsazcwejRiOThpbGMxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="280">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Competitive Programming & Labs
+
+| Platform | Profile |
+|-----------|---------|
+| 🔴 TryHackMe | [v1k4l9](https://tryhackme.com/p/v1k4l9) |
+| 🟢 Hack The Box | [v1k4l9](https://profile.hackthebox.com/profile/019e3b78-55c3-7058-980b-325f6bd54dd5) |
+| 🟠 LeetCode | [Vikalp Pratap Yadav](https://leetcode.com/u/v1k4l9/) |
+| 🔵 Codeforces | [Heavenly_flames](https://codeforces.com/profile/Heavenly_flames) |
+
+---
+
+# 📂 Featured Projects
+
+### 🐳 Security Homelab
+
+Docker-based security homelab integrating Wazuh, Cowrie, monitoring, and logging for learning blue-team operations.
+
+🔗 https://github.com/vikalp1817243
+
+---
+
+### 📊 Marks Dashboard
+
+A responsive web application for managing and visualizing academic marks.
+
+🔗 https://github.com/vikalp1817243/marks-dashboard
+
+---
+
+# 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+- Google — Bits & Bytes of Computer Networking
+- TryHackMe — Cyber Security 101 Learning Path
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-lake-two-66.vercel.app/api?username=vikalp1817243&show_icons=true&theme=dark&hide_border=true&count_private=true&v=3" alt="Vikalp's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-lake-two-66.vercel.app/api/top-langs/?username=vikalp1817243&layout=compact&theme=dark&hide_border=true&v=3" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats-lake-two-66.vercel.app/api?username=vikalp1817243&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-lake-two-66.vercel.app/api/top-langs/?username=vikalp1817243&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
+
+---
+
 <div align="center">
-  <sub>Let's connect! Always open to discussing <strong>Network Defense</strong> and <strong>Web3 Security</strong>.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikalp1817243&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yadavvikalppratap/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/vikalp1817243">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Security is not a product, but a process."
+
+⭐ Thanks for visiting my profile.
+
 </div>
